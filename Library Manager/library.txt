@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Bikes",
+        "author": "Biker",
+        "year": "2k25",
+        "genre": "Riding",
+        "read": false
+    },
+    {
+        "title": "The Story Of Gen-Z",
+        "author": "Hafsa",
+        "year": "2k25",
+        "genre": "Life",
+        "read": true
+    }
+]
